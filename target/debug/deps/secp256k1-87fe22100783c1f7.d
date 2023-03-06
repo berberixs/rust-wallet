@@ -1,0 +1,12 @@
+/home/mahdi/workspace/university/bachelorarbeit/rust-wallet/target/debug/deps/secp256k1-87fe22100783c1f7.rmeta: /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/lib.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/macros.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/context.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/constants.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/ecdh.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/key.rs
+
+/home/mahdi/workspace/university/bachelorarbeit/rust-wallet/target/debug/deps/libsecp256k1-87fe22100783c1f7.rlib: /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/lib.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/macros.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/context.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/constants.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/ecdh.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/key.rs
+
+/home/mahdi/workspace/university/bachelorarbeit/rust-wallet/target/debug/deps/secp256k1-87fe22100783c1f7.d: /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/lib.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/macros.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/context.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/constants.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/ecdh.rs /home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/key.rs
+
+/home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/lib.rs:
+/home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/macros.rs:
+/home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/context.rs:
+/home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/constants.rs:
+/home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/ecdh.rs:
+/home/mahdi/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-0.17.2/src/key.rs:
